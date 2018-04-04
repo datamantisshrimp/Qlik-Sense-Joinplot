@@ -21,7 +21,7 @@ The chart represents a scatter plot with the corresponding frequency distributio
 - Number of histograms bins (equal to ticks, custom, applying Freedman-Diaconis or Sturger Formula)
 
 
-###Author
+### Author
 Marco @MantisShrimp
 datamantisshrimp@gmail.com
 
