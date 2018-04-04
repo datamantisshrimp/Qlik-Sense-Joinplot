@@ -1,0 +1,7 @@
+Joinplot.qext;
+Joinplot.js;
+Joinplot.css;
+initialproperties.js;
+properties.js;
+./libraries/d3.v3.min.js;
+./libraries/d3.v4.min.js

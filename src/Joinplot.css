@@ -1,0 +1,106 @@
+/* CSS */
+
+/*
+.bar.selected {
+    opacity: 1;
+}
+
+.bar.notSelected {
+    opacity: 0.5;
+}
+
+div.toolTip {
+    position: absolute;
+    background-color: white;
+    opacity: 0.9;
+    border: 1px solid #9c9c9c;
+    padding: 10px;
+}
+
+*/
+/*-------------------------------------------------------
+    Tooltip 
+-------------------------------------------------------*/
+div.toolTip {
+    position: absolute;
+    background-color: white;
+    opacity: 0.9;
+    border: 1px solid #9c9c9c;
+    padding: 10px;
+}
+
+
+
+/*-------------------------------------------------------
+    Axis 
+-------------------------------------------------------*/
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: rgb(53, 53, 53);
+    stroke-width: 0.5;
+    shape-rendering: rgb(53, 53, 53);
+    shape-rendering: crispEdges;
+}
+
+.axis path {
+    stroke: rgb(53, 53, 53);
+    stroke-width: 0.5;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    fill: rgb(53, 53, 53);
+}
+
+/*-------------------------------------------------------
+    Scatter 
+-------------------------------------------------------*/
+
+.dot {
+    stroke: rgb(29,29,29);
+    
+}
+
+.legend text {
+    text-anchor: end;
+    font-size: 13px;
+}
+
+.grid line {
+    stroke: lightgrey;
+    stroke-width: 0.5;
+    stroke-opacity: 0.7;
+    shape-rendering: crispEdges;
+    /* make it sharp */
+}
+
+
+.grid path {
+    stroke-width: 0;
+}
+
+/*-------------------------------------------------------
+    Histogram 
+-------------------------------------------------------*/
+
+.bar rect {
+    fill: #b7c6df;
+    stroke: #b7c6df;
+    stroke-width: 1;
+}
+
+.bar text {
+    fill: #fff;
+    font: 10px sans-serif;
+}
+
+/*
+.rect {
+    fill: blue;
+    stroke: pink;
+    stroke-width: 5;
+    fill-opacity: 0.1;
+    stroke-opacity: 0.9
+}*/
