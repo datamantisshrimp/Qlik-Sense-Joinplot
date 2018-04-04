@@ -4,7 +4,7 @@ This chart is a port into Qlik Sense using d3 of the Seaborn Library Joinplot fo
 
 The chart represents a scatter plot with the corresponding frequency distributions on two histograms.
 
-![Alt text](screenshots/joinplot.gif?raw=true "Joinplot")
+![Alt text](screenshots/Joinplot.gif?raw=true "Joinplot")
 
 
 ### Usage:
